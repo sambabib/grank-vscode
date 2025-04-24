@@ -1,0 +1,22 @@
+{
+  "name": "grank-theme",
+  "displayName": "Grank Theme",
+  "description": "A modern dark theme with teal and purple accents",
+  "version": "0.0.1",
+  "publisher": "adekite",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Grank",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grank-color-theme.json"
+      }
+    ]
+  }
+}
