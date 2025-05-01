@@ -4,28 +4,17 @@ A modern dark theme with teal and purple accents, matching the Grank theme (cret
 
 ## Screenshots
 
-![Grank Theme Screenshot](https://raw.githubusercontent.com/username/vscode-grank-theme/main/images/screenshot.png)
+![Grank Theme Screenshot](https://raw.githubusercontent.com/sambabib/grank-vscode/master/grank-screenshot.jpg)
 
 ## Installation
 
-### From Visual Studio Code Marketplace (Once Published)
+### From Visual Studio Code Marketplace
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Grank Theme`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
 5. Code > Preferences > Color Theme > **Grank**
-
-### Manual Installation
-
-1. Download or clone this repository
-2. Navigate to the VS Code extensions directory:
-   - Windows: `%USERPROFILE%\.vscode\extensions`
-   - macOS/Linux: `~/.vscode/extensions`
-3. Create a new folder called `grank-theme`
-4. Copy all files from this repository into that folder
-5. Restart VS Code
-6. Code > Preferences > Color Theme > **Grank**
 
 ## Features
 

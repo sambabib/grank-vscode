@@ -2,8 +2,13 @@
   "name": "grank-theme",
   "displayName": "Grank Theme",
   "description": "A modern dark theme with teal and purple accents",
-  "version": "0.0.1",
-  "publisher": "adekite",
+  "version": "0.0.2",
+  "publisher": "samuraikitts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sambabib/grank-vscode.git"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
