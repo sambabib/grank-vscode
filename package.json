@@ -1,9 +1,12 @@
 {
-  "name": "grank-theme",
+  "name": "grank",
   "displayName": "Grank Theme",
   "description": "A modern dark theme with teal and purple accents",
   "version": "0.0.2",
   "publisher": "samuraikitts",
+  "author": {
+    "name": "Emmanuel Akala"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -15,6 +18,12 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "color-theme"
+  ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
