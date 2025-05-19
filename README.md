@@ -1,6 +1,6 @@
 # Grank Theme for VS Code
 
-A modern dark theme with teal and purple accents, matching the Grank theme (creted by me) for Warp terminal.
+A modern dark theme with teal and purple accents, matching the Grank theme (created by me) for Warp terminal. Now includes "Grank Blackout" and "Grank Italics" variants.
 
 ## Screenshots
 
@@ -14,7 +14,7 @@ A modern dark theme with teal and purple accents, matching the Grank theme (cret
 2. Search for `Grank or Grank Theme`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Grank**
+5. Code > Preferences > Color Theme > **Grank**, **Grank Blackout**, or **Grank Italics**
 
 ## Features
 
@@ -22,10 +22,15 @@ A modern dark theme with teal and purple accents, matching the Grank theme (cret
 - Syntax highlighting that matches modern code editor standards
 - Consistent UI elements with teal accents and purple highlights
 - Terminal colors that match the Warp Grank theme
+- "Grank Blackout" variant with an extremely dark background (oklch(.01 0 0))
+- "Grank Italics" variant with italic styling for keywords, storage types, modifiers, parameters, and control flow operators
 
 ## Customization
 
-If you want to customize this theme, you can modify the `themes/grank-color-theme.json` file.
+If you want to customize this theme, you can modify any of the theme files in the `themes` directory:
+- `grank-color-theme.json` - Standard Grank theme
+- `grank-blackout-color-theme.json` - Blackout variant with extremely dark background
+- `grank-italics-color-theme.json` - Variant with italic styling for code elements
 
 ## Contributing
 

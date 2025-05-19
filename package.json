@@ -1,8 +1,8 @@
 {
   "name": "grank",
-  "displayName": "Grank Theme",
+  "displayName": "Grank",
   "description": "A modern dark theme with teal and purple accents",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "samuraikitts",
   "author": {
     "name": "Emmanuel Akala"
@@ -30,6 +30,16 @@
         "label": "Grank",
         "uiTheme": "vs-dark",
         "path": "./themes/grank-color-theme.json"
+      },
+      {
+        "label": "Grank Blackout",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grank-blackout-color-theme.json"
+      },
+      {
+        "label": "Grank Italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/grank-italics-color-theme.json"
       }
     ]
   }
