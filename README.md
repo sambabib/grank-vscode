@@ -22,7 +22,7 @@ A modern dark theme with teal and purple accents, matching the Grank theme (crea
 - Syntax highlighting that matches modern code editor standards
 - Consistent UI elements with teal accents and purple highlights
 - Terminal colors that match the Warp Grank theme
-- "Grank Blackout" variant with an extremely dark background (oklch(.01 0 0))
+- "Grank Blackout" variant with an extremely dark background
 - "Grank Italics" variant with italic styling for keywords, storage types, modifiers, parameters, and control flow operators
 
 ## Customization
